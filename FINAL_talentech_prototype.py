@@ -258,4 +258,4 @@ if __name__ == '__main__':
     demo1()
 
 # Call Demo 2
-#    demo2()
+    demo2()
